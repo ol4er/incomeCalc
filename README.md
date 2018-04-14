@@ -1,2 +1,2 @@
 A calculator for work. Early function test
-<a href="http://htmlpreview.github.io/?https://github.com/ol4er/incomecalc/blob/master/incomecalc.html">Use online</a>
+https://htmlpreview.github.io/?https://github.com/ol4er/incomeCalc/blob/master/income%20calc.html
