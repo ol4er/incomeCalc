@@ -1,0 +1,24 @@
+//income calc
+<!DOCTYPE html>
+<html>
+<header>
+<title>Income Calc 2018</title>
+<script>
+let wkdayRate = 20.08;
+let wkndRate = 25.1;
+
+let daysWorked = 3;
+let wkndWorked = 1;
+
+function incomeCalc(daysWorked,wkndWorked) {
+let totalInc = (daysWorked*(wkdayRate*7.5))+(wkndWorked*(wkndRate*6));
+let totalHrs = (daysWorked*7.5)+(wkndWorked*6);
+console.log(totalInc);
+console.log(totalHrs);
+}
+</script>
+</header>
+<body>
+  <p>in console type <code>incomeCalc(weekdays,weekenddays worked)</code></p>
+<body>
+</html>
